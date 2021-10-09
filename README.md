@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MajestarTHT
-- My group www turkhackteam.org 
+- 👋 Hi, I’m @Majestar
 - My  Job Cyber Security 
 - This Page my Tool Page 
-- instagram: xmajestar
+- instagram: majestar.deb
